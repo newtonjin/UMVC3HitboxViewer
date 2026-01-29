@@ -131,7 +131,6 @@ UMVC3 Hitbox Viewer/
 ├── utils/                # TrainingTools infrastructure (trampoline, memory, etc)
 ├── gui/                  # ImGui (not used by DLL)
 ├── build/                # Binaries and objects
-├── inject.ps1            # (Legacy) PowerShell injector
 └── README.md
 ```
 
