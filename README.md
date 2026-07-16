@@ -2,6 +2,14 @@
 
 A DirectX 9 overlay tool for Ultimate Marvel vs. Capcom 3 that displays hitboxes and hurtboxes in real time, for training, analysis, and fun. This is a beta/alpha version, isn't by any means 100% completed. Still under development.
 
+Vita default implementation
+<img width="1363" height="761" alt="Captura de tela 2026-01-29 104025" src="https://github.com/user-attachments/assets/e70e37e2-a452-4882-a047-af580c7ecf13" />
+
+PC port using Rev Engineering:
+<img width="1279" height="749" alt="HitboxViewer1" src="https://github.com/user-attachments/assets/3c75829d-8b2e-4623-8fca-46042ad5cc53" />
+<img width="1283" height="752" alt="HitboxViewer2" src="https://github.com/user-attachments/assets/d6a88f6b-75ea-4e69-89a7-c30845cdec34" />
+
+
 ## Overview
 
 UMVC3 Hitbox Viewer is a real-time hitbox/hurtbox visualizer for Ultimate Marvel vs. Capcom 3. It consists of two main components:
